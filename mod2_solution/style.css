@@ -3,11 +3,17 @@
 *{
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+}
+
+menu{
+    margin-bottom: 50px;
+    font-size: 75%;
 }
 
 h1{
     text-align: center;
-    margin-bottom: 50px;
 }
 
 .row{
@@ -15,7 +21,7 @@ h1{
 } 
 
 .menu_items1{
-    border: 1px solid;
+    border: 2px solid black;
     width: 90%;
     background-color:aqua;
     text-align: center;
@@ -27,7 +33,7 @@ h1{
 }
 
 .menu_items2{
-    border: 1px solid;
+    border: 2px solid black;
     width: 90%;
     background-color:palevioletred;
     text-align: center;
@@ -40,7 +46,7 @@ h1{
 }
 
 .menu_items3{
-    border: 1px solid;
+    border: 2px solid black;
     width: 90%;
     background-color: brown;
     text-align: center;
